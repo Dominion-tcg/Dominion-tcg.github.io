@@ -1,3 +1,3 @@
-# Dominion-tcg.github.io
+# Dominion: collectable card game deck builder
 
 ## Copyright Information
